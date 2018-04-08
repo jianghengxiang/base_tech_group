@@ -14,9 +14,10 @@ git使用 |  2018.3.26 |[git入门使用说明](./git-使用/入门.md)
 pluto|2018.1.3|[springboot web框架集成学习](https://github.com/jianghengxiang/jhx-pluto)
 hbase系列|2018.3.31|[1. hbase介绍和基础用法](./hbase/1.介绍与基础使用.md)
 hbase系列|未开工|[2. hbase java api使用]()
-kafka系列|未开工|[1. 简介和基础使用]()
+kafka系列|2018.4.8|[1. 简介和基础使用](./kafka/简单使用.md)
 kafka系列|未开工|[2. java api使用]()
 Druid系列|即将开工|[1. 介绍与基础使用]()
+maven系列|2018.4.8|[maven常用特殊命令](./maven/常用命令.md)
 
 
 ## 勤劳的小蜜蜂
